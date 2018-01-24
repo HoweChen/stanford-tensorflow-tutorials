@@ -4,3 +4,5 @@
 *.SUNet
 *.pyc
 .env/*
+.idea
+venv
